@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e628ec4b.css",
-    "main.js": "/static/js/main.a3855895.js",
-    "static/js/787.1da6fb5c.chunk.js": "/static/js/787.1da6fb5c.chunk.js",
-    "index.html": "/index.html",
-    "main.e628ec4b.css.map": "/static/css/main.e628ec4b.css.map",
-    "main.a3855895.js.map": "/static/js/main.a3855895.js.map",
-    "787.1da6fb5c.chunk.js.map": "/static/js/787.1da6fb5c.chunk.js.map"
+    "main.css": "/lab-react-FullStackDrinks/static/css/main.e628ec4b.css",
+    "main.js": "/lab-react-FullStackDrinks/static/js/main.987a9b41.js",
+    "static/js/787.1da6fb5c.chunk.js": "/lab-react-FullStackDrinks/static/js/787.1da6fb5c.chunk.js",
+    "index.html": "/lab-react-FullStackDrinks/index.html",
+    "main.e628ec4b.css.map": "/lab-react-FullStackDrinks/static/css/main.e628ec4b.css.map",
+    "main.987a9b41.js.map": "/lab-react-FullStackDrinks/static/js/main.987a9b41.js.map",
+    "787.1da6fb5c.chunk.js.map": "/lab-react-FullStackDrinks/static/js/787.1da6fb5c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e628ec4b.css",
-    "static/js/main.a3855895.js"
+    "static/js/main.987a9b41.js"
   ]
 }
